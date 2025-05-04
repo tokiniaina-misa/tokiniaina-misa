@@ -59,9 +59,10 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/BarsonTokiniaina" target="_blank">
-    <img src="https://img.shields.io/badge/-Barson%20Tokiniaina-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
