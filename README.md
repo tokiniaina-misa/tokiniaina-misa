@@ -61,7 +61,11 @@
   <a href="https://www.facebook.com/BarsonTokiniaina" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/rasetarinera.toki" target="_blank">
+    <img src="https://img.shields.io/badge/-@rasetarinera.toki-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
 </p>
+
 
 
 
