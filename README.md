@@ -13,7 +13,7 @@
 - 🔁 Je m'intéresse aux pratiques DevOps : automatisation, conteneurisation, et pipelines
 - 🕹️ Je crée aussi des jeux avec **Godot** et **Unreal Engine**
 - 📦 J’expérimente dans des environnements virtuels avec **VirtualBox**
-- 📫 Contact : **[rasetarinera.toki@gmail.com]**
+- 📫 Contact : **rasetarinera.toki@gmail.com**
 
 ---
 
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Virtualbox_logo.png" height="40" alt="VirtualBox"/>
+  <img src="https://img.icons8.com/color/48/000000/virtualbox.png" height="40" alt="VirtualBox"/>
 </p>
 
 ---
@@ -55,13 +55,14 @@
 ### 🌐 Me retrouver ailleurs
 
 <p>
-  <a href="https://www.linkedin.com/in/tonlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:rasetarinera.toki@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:ton.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.facebook.com/BarsonTokiniaina" target="_blank">
+    <img src="https://img.shields.io/badge/-Barson%20Tokiniaina-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
