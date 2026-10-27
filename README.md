@@ -1,37 +1,31 @@
 # Misa Tokiniaina
+**DevOps Engineer & Linux Systems Developer**
 
-**DevOps Engineer & Linux Systems Developer**  
-Building scalable infrastructure and automation solutions. Learning how systems work by setting up, testing, and optimizing them. Exploring game mechanics — something that genuinely interests me too.
+Curious about how systems work under the hood. Focused on building reliable infrastructure, automating workflows, and continuously improving what gets deployed. Also exploring game mechanics — a genuine side interest.
 
 ---
 
-## What I do
+## What I Work On
 
-- Design and maintain **Linux-based infrastructure** with Docker & containerization
-- Build **CI/CD pipelines** with GitLab for efficient deployments
-- Write **automation scripts** in Bash & Python to streamline workflows
-- Explore **game development** with Godot
+- Designing and maintaining **Linux-based infrastructure** with Docker and containerization  
+- Building **CI/CD pipelines** with GitLab for smooth, repeatable deployments  
+- Writing **automation scripts** in Bash and Python to reduce manual work  
+- Exploring **game development** with Godot (and some Unreal Engine)
 
 ---
 
 ## Tech Stack
 
-**Core Infrastructure**  
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg)
-![GitLab CI/CD](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg)
-![VirtualBox](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/virtualbox.svg)
-
-**Scripting & Automation**  
-![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gnubash.svg)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg)
+**Infrastructure & Automation**  
+[![Skills](https://skillicons.dev/icons?i=linux,docker,gitlab,bash,python&perline=5)](https://skillicons.dev)
 
 **Game Development**  
-![Godot Engine](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/godotengine.svg)
-![Unreal Engine](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/unrealengine.svg)
+[![Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/unrealengine.svg" height="48" alt="Unreal Engine" style="margin-left: 8px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/virtualbox.svg" height="48" alt="VirtualBox" style="margin-left: 8px;"/>
 
 ---
 
-## Links
+## Contact
 
-rasetarinera.toki@gmail.com · [GitLab](https://gitlab.com/rasetarinera.toki) · [Facebook](https://www.facebook.com/BarsonTokiniaina)
+[rasetarinera.toki@gmail.com](mailto:rasetarinera.toki@gmail.com) · [GitLab](https://gitlab.com/rasetarinera.toki)
