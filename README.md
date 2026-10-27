@@ -1,77 +1,37 @@
-<h1 align="center">Salut 👋, moi c'est Misa Tokiniaina</h1>
-<h3 align="center">Passionné par le DevOps, les systèmes Linux et la création de projets techniques & créatifs 🧠💻</h3>
+# Misa Tokiniaina
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ton-username&label=Profile%20views&color=0e75b6&style=flat" alt="ton-username" />
-</p>
+**DevOps Engineer & Linux Systems Developer**  
+Building scalable infrastructure and automation solutions. Learning how systems work by setting up, testing, and optimizing them. Exploring game mechanics — something that genuinely interests me too.
 
 ---
 
-### 🚀 À propos de moi
+## What I do
 
-- 🔧 Je travaille sur des projets en lien avec **Linux, Docker, Bash, Python et GitLab CI/CD**
-- 🔁 Je m'intéresse aux pratiques DevOps : automatisation, conteneurisation, et pipelines
-- 🕹️ Je crée aussi des jeux avec **Godot** et **Unreal Engine**
-- 📦 J’expérimente dans des environnements virtuels avec **VirtualBox**
-- 📫 Contact : **rasetarinera.toki@gmail.com**
-
----
-
-### 🛠️ Outils & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab"/>
-  <img src="https://img.icons8.com/color/48/000000/virtualbox.png" height="40" alt="VirtualBox"/>
-</p>
+- Design and maintain **Linux-based infrastructure** with Docker & containerization
+- Build **CI/CD pipelines** with GitLab for efficient deployments
+- Write **automation scripts** in Bash & Python to streamline workflows
+- Explore **game development** with Godot
 
 ---
 
-### 📊 Mes Stats GitHub
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&custom_title=Mes+Stats+GitHub" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=tokyonight" alt="streak" />
-</p>
+**Core Infrastructure**  
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/docker.svg)
+![GitLab CI/CD](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg)
+![VirtualBox](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/virtualbox.svg)
 
----
+**Scripting & Automation**  
+![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gnubash.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg)
 
-### 🔍 Domaines que je maîtrise le plus
-
-- 🐧 Commandes Linux 
-- 🐳 Utilisation efficace de Docker
-- 📜 Automatisation avec des scripts **Bash** et **Python**
-- 🔁 Déploiement et gestion de projets via **GitLab CI/CD**
-- 🧪 Création d’environnements tests avec **VirtualBox**
-- 🎮 Développement de jeux avec Godot & Unreal Engine
+**Game Development**  
+![Godot Engine](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/godotengine.svg)
+![Unreal Engine](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/unrealengine.svg)
 
 ---
 
-### 🌐 Me retrouver ailleurs
+## Links
 
-<p>
-  <a href="mailto:rasetarinera.toki@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/BarsonTokiniaina" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/rasetarinera.toki" target="_blank">
-    <img src="https://img.shields.io/badge/-@rasetarinera.toki-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-</p>
-
-
-
-
----
-
-<!--
-✨ Ce README évoluera au fil de mes projets. Reste à l'écoute !
--->
-
+rasetarinera.toki@gmail.com · [GitLab](https://gitlab.com/rasetarinera.toki) · [Facebook](https://www.facebook.com/BarsonTokiniaina)
